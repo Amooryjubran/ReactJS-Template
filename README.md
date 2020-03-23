@@ -1,3 +1,9 @@
+This is a React JS template website, used react-router-dom, styled components, and bootstrap.
+
+Live Demo : https://zen-brattain-5da735.netlify.com/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
