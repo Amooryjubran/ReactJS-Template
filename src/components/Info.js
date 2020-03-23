@@ -23,6 +23,7 @@ export default class Info extends Component {
                         <h5 className="card-title">{headerSubTitle}</h5>
                         <p className="card-text" >{headerText}</p>
                         <Link
+                        onClick={() => data.handleDetail(id)}
                         to="/details"
                         className="btn btn-outline-primary text-uppercase"
                         >
