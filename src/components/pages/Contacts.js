@@ -15,7 +15,7 @@ class Contacts extends Component {
           <div className="row">
             <div className="col-md-7">
               <iframe
-                src="https://www.google.com/maps/d/embed?mid=1h9PyWJ9-uAFIIilnpaebyJB00bZ8EhqT"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.7814828558835!2d-73.58062248412159!3d45.494344939452006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a6bea31d02b%3A0x5f2b41af9ca5c58b!2sConcordia%20University%20FG%20building!5e0!3m2!1sen!2sca!4v1584930924581!5m2!1sen!2sca"
                 style={{
                   border: '0',
                   width: '100%',
