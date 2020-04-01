@@ -1,4 +1,4 @@
-This is a React JS template website, used react-router-dom, styled components, and bootstrap.
+This is a React JS template website, used react-router-dom, styled components, and Bootstrap.
 
 Live Demo : https://zen-brattain-5da735.netlify.com/
 
